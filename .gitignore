@@ -9,3 +9,8 @@ data/
 
 # Python
 __pycache__/
+
+images/
+*.png
+*.jpg
+*.jpeg
