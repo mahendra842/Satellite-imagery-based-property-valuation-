@@ -14,3 +14,9 @@ images/
 *.png
 *.jpg
 *.jpeg
+
+
+.ipynb_checkpoints/
+data/images/
+images/
+*.png
