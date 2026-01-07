@@ -1,0 +1,11 @@
+# Data files
+*.pkl
+*.parquet
+data/images/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
